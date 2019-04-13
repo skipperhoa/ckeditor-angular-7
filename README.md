@@ -6,9 +6,9 @@
 # Config Ckeditor
 <ck-editor name="editor1" [(ngModel)]="editorValue" skin="moono-lisa" language="en" [fullPage]="true"></ck-editor>
 
-[fullpage] = true 
+[fullPage] = true 
 GET FULL CODE HTML IN TEXTAREA 
 
-[fullpage] = false
+[fullPage] = false
 GET CONTENT IN TEXTAREA
 
